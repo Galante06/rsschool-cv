@@ -1,12 +1,12 @@
-**#Nikita Sokolov**
+**# Nikita Sokolov**
 
 ---
 
-##Junior Frontend Developer
+## Junior Frontend Developer
 
 ---
 
-##My contacts
+## My contacts
 - 📍 Location: Belarus, Mogilev
 - 📧 Email: neslgota10@gmail.com
 - 💬 Telegram: @vitocls
