@@ -33,12 +33,12 @@ My story began in 2021, when I successfully enrolled in a programming program. B
 ---
 
 ## Languages
-English - Intermediate
-Russian, Belarusian - native
+- English - Intermediate
+- Russian, Belarusian - native
 
 ---
 
-## 💻 Code Example
+## Code Example
 
 ```javascript
 function greetUser(name) {
