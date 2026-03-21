@@ -1,7 +1,5 @@
 # Nikita Sokolov
 
----
-
 ## Junior Frontend Developer
 
 ---
@@ -24,3 +22,30 @@ My story began in 2021, when I successfully enrolled in a programming program. B
 * JavaScript
 * VS Code
 * Git, Github
+
+---
+
+## Education
+- Mogilev State Polytechnical College
+- Course from rs school
+- Course from stepik ^_^
+
+---
+
+## Languages
+English - Intermediate
+Russian, Belarusian - native
+
+---
+
+## 💻 Code Example
+
+```javascript
+function greetUser(name) {
+  if (!name) {
+    return "Hello, guest!";
+  }
+  return "Hello, " + name + "!";
+}
+
+console.log(greetUser("Nikita"));
