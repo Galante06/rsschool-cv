@@ -19,3 +19,45 @@ a{
 .navmenu > a{
     color:black;
 }
+
+.header{ 
+    text-align: center;
+}
+
+.main{
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.contacts{
+    font-size: 20px;
+}
+
+.aboutme{
+    font-size: 20px;
+    max-width: 820px;   
+    width: 100%;          
+    margin: 0 auto;      
+    background-color: #f0f0f0; 
+    margin-top: 20px;
+}
+
+.skills{
+    margin-top: 20px;
+     font-size: 20px;
+}
+
+.education{
+    font-size: 20px;
+    max-width: 820px;   
+    width: 100%;          
+    margin: 0 auto;      
+    background-color: #f0f0f0; 
+    margin-top: 20px;
+    
+}
+
+.education > ul{
+    list-style-type: none 
+}
